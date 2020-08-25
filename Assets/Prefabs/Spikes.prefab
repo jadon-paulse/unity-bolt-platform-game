@@ -140,8 +140,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 6e91df93fbd13604488f68f42ce96d0f, type: 2}
 --- !u!1 &1720008163137142
 GameObject:
   m_ObjectHideFlags: 0
